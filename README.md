@@ -39,17 +39,11 @@ install G++ compiler by instaling : libc6-armel-cross libc6-dev-armel-cross binu
 
 # Installation 
 
-to install this project follow those steps: 
+to run this project clone this folder on a raspberry PI 3 or higher the compile with: 
 
 
 ```
-git clone https://github.com/TitiLouati/Cplusplus-Raspi-Project-Humidity-sensor-Oled.git
 
-```
-Then : 
-
-
-```
 g++ -o main main.cpp oled.cpp oled.h gpio.cpp gpio.h bme260.cpp bme260.h fonts.h
 
 ```
