@@ -1,10 +1,11 @@
+Group Project!
 # BME260 and Oled SSH106 Display to control Humidity 
 
 A System that consists of a BME260 humidty Sensor and an Oled Display mounted on a raspberry PI to get and display the humidity value in a room.
 depending on the humidty value, the system chooses whether to increase or decrease humidity using a humidifier or dehumidifier.
 
 
-![Layout](https://github.com/TitiLouati/Cplusplus-Raspi-Project-Humidity-sensor-Oled/blob/main/Humidity-Sensor-OledDisplay/BME260Oled.jpeg)
+![Layout](https://github.com/medyousef/Humidifier-dehemidifier-System/blob/master/BME260Oled.jpeg)
 
 # Example 
 
